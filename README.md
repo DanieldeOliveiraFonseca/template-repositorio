@@ -14,7 +14,7 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
+* [Sumário](#índice-/-sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Contribuição](#contribuição)
